@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/srbhptl39-mcp-superassistant-badge.png)](https://mseep.ai/app/srbhptl39-mcp-superassistant)
+
 # 🚀 MCP SuperAssistant v0.2.0
 
 **Chrome extension that brings MCP (Model Context Protocol) to AI platforms including Scira.AI, ChatGPT, Perplexity, Gemini, and more!**
